@@ -1,0 +1,13 @@
+p{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.paragraf1{
+    background-color: blue;
+}
+
+.paragraf2{
+    opacity: 0.5;
+}
